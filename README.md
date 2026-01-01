@@ -84,7 +84,7 @@ When you click APPLY PATTERN, the website sends a grid of color data to a Python
 
 We have made installation effortless with a single script.
 
-Download this repository.
+Download the installer batch file from releases.
 
 Locate the install_and_run.bat file.
 
@@ -118,9 +118,9 @@ Open your AULA Keyboard Software and select the "Custom Light" tab.
 
 The script will ask you to hover your mouse over the Red, Green, and Blue text input boxes in the software and press Enter.
 
-It will then ask you to hover over Key 1 (Esc) through Key 80 and press Enter for each.
+It will then ask you to hover over Key 1 (Esc) through Key 80 and press Enter for each. Make sure the command prompt is selected when pressing enter
 
-This creates a aula_mapping.json file. You only do this once!
+While this is a tedious process, you'll only have to do it once
 
 2. Applying a Design
 
@@ -130,15 +130,12 @@ Click the big blue APPLY PATTERN button.
 
 The Safety Countdown: A giant overlay will appear counting down from 5.
 
-Hands Off: Move your mouse away. Do not touch the mouse or keyboard while the script is working.
-
-Emergency Stop: If the script starts clicking the wrong things, press ESC immediately to kill the process.
 
 3. Re-Calibration
 
 If you move the AULA software window or change your screen resolution, the clicks will miss.
 
-Simply delete the aula_mapping.json file in the folder.
+Simply say [n]o when you run the new-autorun batch file
 
 Restart the application, and it will ask you to calibrate again.
 
@@ -153,4 +150,10 @@ This project is a proud part of Source Unlatched.
 Source Unlatched is a collection of FOSS (Free and Open Source Software) applications designed to unlock the potential of your hardware and better your digital life without paywalls or bloatware.
 
 
+</details>
+<details>
+<summary><title>🚨 Emergency</title></summary>
+Hands Off: Move your mouse away. Do not touch the mouse or keyboard while the script is working.
+<h3>If you forget to do something, such as clearing Aula Software, you can press ESC (escape) to cancel the process during the countdown.</h3>
+<h2>Emergency Stop: If the script starts clicking the wrong things, or you forget something after the countdown, press F7 immediately to kill the process.</h2>
 </details>
