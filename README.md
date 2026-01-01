@@ -22,7 +22,7 @@ You design your lighting theme in the web interface. When you click APPLY, the P
 
 <details>
 <summary><h2>Screenshots!</h2></summary>
-https://i.ibb.co/tMN5WPKc/image.png
+ ![Image Alt]https://i.ibb.co/tMN5WPKc/image.png)
 </details>
 <summary><h2>🎛️ Usage (pre-install)!</h2></summary>
 
