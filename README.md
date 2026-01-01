@@ -1,6 +1,6 @@
-⌨️ AULA F75 Editor Ultimate
+<h1>⌨️ AULA F75 Editor Ultimate</h1>
 
-The definitive, feature-rich controller for the AULA F75 mechanical keyboard RGB lighting.
+<h3>The definitive, feature-rich controller for the AULA F75 mechanical keyboard RGB lighting.</h3>
 
 <details>
 
