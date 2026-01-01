@@ -21,7 +21,7 @@ You design your lighting theme in the web interface. When you click APPLY, the P
 </details>
 
 <details>
-<summary><h2>Screenshots!</h2></summary>
+<summary><h2>📷 Screenshots!</h2></summary>
 <img width="1145" height="683" alt="Image" src="https://github.com/user-attachments/assets/7d02d2ee-8668-4d9b-b957-179c2734e14c" />
 
 <img width="660" height="653" alt="Image" src="https://github.com/user-attachments/assets/e770bbf3-728b-4fcf-bf5d-8fba795fd3fc" />
