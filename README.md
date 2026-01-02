@@ -1,6 +1,6 @@
 <h1>⌨️ AULA LED Editor Ultimate</h1>
 
-<h3>The definitive, feature-rich controller for the AULA F75 mechanical keyboard RGB lighting.</h3>
+<h3>The definitive, feature-rich controller for the AULA mechanical keyboard collection's RGB lighting.</h3>
 <details>
 <summary><h2>✅ Compatability</h2></summary>
   Currently, the Aula F75 is the main supported keyboard. However, any keyboard in the Aula Suite can have a custom mapping assigned. 
@@ -39,11 +39,11 @@
 
 The Problem
 
-The stock software provided for the AULA F75 is functional, but limited. Painting custom lighting effects frame-by-frame or key-by-key is tedious, restricts your creativity, and lacks advanced tools like gradients or image projection.
+The stock software provided for the AULA keyboards collection is functional, but limited. Painting custom lighting effects frame-by-frame or key-by-key is tedious, restricts your creativity, and lacks advanced tools like gradients or image projection.
 
 The Solution
 
-AULA F75 Editor Ultimate is a "Ghost Controller." It provides a modern, web-based interface loaded with Photoshop-like tools (brushes, fills, gradients, plasma generators).
+AULA Editor Ultimate is a "Ghost Controller." It provides a modern, web-based interface loaded with Photoshop-like tools (brushes, fills, gradients, plasma generators).
 
 How it works:
 
@@ -120,20 +120,9 @@ Download the installer batch file from releases.
 
 Locate the install_and_run.bat file.
 
-Double click it.
+Run the file, Done!
 
-The script will automatically:
-
-Check for Python.
-
-Create a dedicated subfolder called Aula F75 Editor Ultimate.
-
-Install all required dependencies (Flask, PyAutoGUI, etc.) in an isolated environment.
-
-Launch the application.
-
-No manual command line work is required.
-
+Note: To run the file without reinstalling, you can run the file "run.bat"
 </details>
 
 <details>
