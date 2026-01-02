@@ -167,7 +167,7 @@ The Safety Countdown: A giant overlay will appear counting down from 5.
 
 If you move the AULA software window or change your screen resolution, the clicks will miss.
 
-Simply say [n]o when you run the new-autorun batch file
+If you wish to restart and recalibrate, simply say [n]o when you run the new-autorun batch file
 
 Restart the application, and it will ask you to calibrate again.
 
@@ -188,4 +188,8 @@ Source Unlatched is a collection of FOSS (Free and Open Source Software) applica
 <h4>Hands Off: Move your mouse away. Do not touch the mouse or keyboard while the script is working. </h4>
 <h3>If you forget to do something, such as clearing Aula Software, you can press ESC (escape) to cancel the process during the countdown.</h3>
 <h2>Emergency Stop: If the script starts clicking the wrong things, or you forget something after the countdown, press F7 immediately to kill the process.</h2>
+</details>
+<details>
+<summary><h1>Security</h1></summary>
+<h4>Due to the way github limits file sizes to 25mb, the installation files zip installed with the autoinstaller (install_and_run.bat) are hosted on (google drive)[https://drive.google.com/file/d/19G-wgcdYitwyy_NXgVzw5_2920_Zvg2U/view?usp=sharing].</h4>
 </details>
